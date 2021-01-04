@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Fikri Ashari - aka [wuvel][website] 👋
 
-[![Website](https://img.shields.io/website?label=mohzulfikar.me&style=for-the-badge&url=http%3A%2F%2Fmohzulfikar.me)](https://wuvel.net)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mohzulfikar0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmohzulfikar&screen_name=wuvelatte)
+[![Website](https://img.shields.io/website?label=wuvel.net&style=for-the-badge&url=http%3A%2F%2Fmohzulfikar.me)](https://wuvel.net)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wuvelatte?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmohzulfikar&screen_name=wuvelatte)
 
 ## I'm a Student, Developer, and Open-source Enthusiast!!
 
