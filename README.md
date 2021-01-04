@@ -32,12 +32,9 @@
 <br />
 
 ---
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![mohzulfikar's github stats](https://github-readme-stats.vercel.app/api?username=mohzulfikar)
-
-</details>
+  ![wuvel's github stats](https://github-readme-stats.vercel.app/api?username=wuvel)
 
 [website]: https://wuvel.net
 [twitter]: https://twitter.com/wuvelatte
