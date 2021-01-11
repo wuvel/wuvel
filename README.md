@@ -50,6 +50,7 @@ Might useful
 - [PHP Shell without letters](https://securityonline.info/bypass-waf-php-webshell-without-numbers-letters/https://securityonline.info/bypass-waf-php-webshell-without-numbers-letters/)
 - [SQLi Bypass Hard Filter](https://websec.wordpress.com/2010/03/19/exploiting-hard-filtered-sql-injections/)
 - [Searching tips](https://blog.hubspot.com/marketing/google-search-tips)
+- [Materials](https://book.hacktoday.net/)
 
 ---
   <summary>:zap: GitHub Stats</summary>
