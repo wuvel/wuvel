@@ -50,6 +50,7 @@ Might useful
 - [SQLi Bypass Hard Filter](https://websec.wordpress.com/2010/03/19/exploiting-hard-filtered-sql-injections/)
 - [Searching tips](https://blog.hubspot.com/marketing/google-search-tips)
 - [Materials](https://book.hacktoday.net/)
+- [PrivEsc via Cronjobs](https://www.hackingarticles.in/linux-privilege-escalation-by-exploiting-cron-jobs/)
 
 ---
   <summary>:zap: GitHub Stats</summary>
