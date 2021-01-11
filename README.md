@@ -46,6 +46,8 @@ Practice:
 Blog:
 - [ ] Complete windows's practices at "What the shell" room.
 
+Might useful
+- [PHP Shell without letters](https://websec.wordpress.com/2010/03/19/exploiting-hard-filtered-sql-injections/)
 ---
   <summary>:zap: GitHub Stats</summary>
 
