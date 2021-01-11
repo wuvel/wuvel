@@ -33,15 +33,14 @@
 
 ### TO-DO
 Learning:
-- [ ] https://tryhackme.com/room/sudovulnsbypass
+- [x] https://tryhackme.com/room/sudovulnsbypass
 - [X] https://tryhackme.com/room/commonlinuxprivesc
 - [ ] https://tryhackme.com/room/linuxprivesc
 
 Practice:
 - [ ] https://tryhackme.com/room/vulnversity
 - [ ] https://tryhackme.com/room/basicpentestingjt
-- [ ] https://tryhackme.com/room/bolt
-- [ ] https://tryhackme.com/room/tartaraus
+- [x] https://tryhackme.com/room/bolt
 
 Blog:
 - [ ] Complete windows's practices at "What the shell" room.
