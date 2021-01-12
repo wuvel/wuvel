@@ -52,6 +52,7 @@ Might useful
 - [Materials](https://book.hacktoday.net/)
 - [PrivEsc via Cronjobs](https://www.hackingarticles.in/linux-privilege-escalation-by-exploiting-cron-jobs/)
 - [Upgrade netcat to metepreter](https://www.hackingtutorials.org/networking/upgrading-netcat-shells-to-meterpreter/)
+- [Metasploit root](https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/)
 
 ---
   <summary>:zap: GitHub Stats</summary>
