@@ -54,6 +54,11 @@ Might useful
 - [Upgrade netcat to metepreter](https://www.hackingtutorials.org/networking/upgrading-netcat-shells-to-meterpreter/)
 - [Metasploit root](https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/)
 
+Handy command tto check linux version
+```
+cat /proc/version; uname -a; uname -mrs; rpm -q kernel; dmesg | grep Linux; ls /boot | grep vmlinuz-; file /bin/ls; cat /etc/lsb-release
+```
+
 ---
   <summary>:zap: GitHub Stats</summary>
 
