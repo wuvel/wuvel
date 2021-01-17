@@ -36,10 +36,11 @@ Learning:
 - [x] https://tryhackme.com/room/sudovulnsbypass
 - [X] https://tryhackme.com/room/commonlinuxprivesc
 - [ ] https://tryhackme.com/room/linuxprivesc
+- [ ] https://tryhackme.com/room/xxe
 
 Practice:
-- [ ] https://tryhackme.com/room/vulnversity
-- [ ] https://tryhackme.com/room/basicpentestingjt
+- [ ] Re-do https://tryhackme.com/room/vulnversity
+- [ ] Re-do https://tryhackme.com/room/basicpentestingjt
 - [x] https://tryhackme.com/room/bolt
 
 Blog:
