@@ -8,7 +8,7 @@
 <!-- - 🔭 I just launched my first blog post: [Coming soon]()! -->
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other maintainer
-- 🥅 2021 Goals:
+
 
 ### Connect with me:
 
