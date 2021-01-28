@@ -62,8 +62,7 @@ cat /proc/version; uname -a; uname -mrs; rpm -q kernel; dmesg | grep Linux; ls /
 
 ---
   <summary>:zap: GitHub Stats</summary>
-
-  ![wuvel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wuvel)
+  
   ![wuvel's github stats](https://github-readme-stats.vercel.app/api?username=wuvel)
 
 [website]: https://wuvel.net
