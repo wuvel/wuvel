@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad Fikri Ashari - aka [wuvel][website] 👋
 
-[![Website](https://img.shields.io/website?label=wuvel.net&style=for-the-badge&url=http%3A%2F%2Fmohzulfikar.me)](https://wuvel.net)original_referer=https%3A%2F%2Fgithub.com%2Fmohzulfikar&screen_name=wuvelatte)
+[![Website](https://img.shields.io/website?label=wuvel.net&style=for-the-badge&url=http%3A%2F%2Fwuvel.net)](https://wuvel.net)
 
 ## I'm a Student, Developer, and Open-source Enthusiast!!
 
