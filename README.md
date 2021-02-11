@@ -33,7 +33,7 @@
 Learning:
 - [x] https://tryhackme.com/room/sudovulnsbypass
 - [X] https://tryhackme.com/room/commonlinuxprivesc
-- [ ] https://tryhackme.com/room/linuxprivesc
+- [X] https://tryhackme.com/room/linuxprivesc
 - [ ] https://tryhackme.com/room/xxe
 
 Practice:
