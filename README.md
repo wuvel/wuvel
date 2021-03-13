@@ -54,9 +54,8 @@ Might useful
 - [Metasploit root](https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/)
 
 ---
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![wuvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuvel&show_icons=true&theme=radical)
+### Stats
+![wuvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuvel&show_icons=true&theme=radical)
 
 [website]: https://wuvel.net
 [linkedin]: https://www.linkedin.com/in/fikriashari/
