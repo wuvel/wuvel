@@ -29,7 +29,7 @@
 <br />
 <br />
 
-### TO-DO
+<!-- ### TO-DO
 Learning:
 - [x] https://tryhackme.com/room/sudovulnsbypass
 - [X] https://tryhackme.com/room/commonlinuxprivesc
@@ -42,7 +42,7 @@ Practice:
 - [x] https://tryhackme.com/room/bolt
 
 Blog:
-- [ ] Complete windows's practices at "What the shell" room.
+- [ ] Complete windows's practices at "What the shell" room. -->
 
 Might useful
 - [PHP Shell without letters](https://securityonline.info/bypass-waf-php-webshell-without-numbers-letters/https://securityonline.info/bypass-waf-php-webshell-without-numbers-letters/)
