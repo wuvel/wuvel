@@ -56,7 +56,7 @@ Might useful
 ---
   <summary>:zap: GitHub Stats</summary>
   
-  ![wuvel's github stats](https://github-readme-stats.vercel.app/api?username=wuvel)
+  ![wuvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuvel&show_icons=true&theme=radical)
 
 [website]: https://wuvel.net
 [linkedin]: https://www.linkedin.com/in/fikriashari/
